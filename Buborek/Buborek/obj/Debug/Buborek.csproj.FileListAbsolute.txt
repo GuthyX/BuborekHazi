@@ -1,0 +1,10 @@
+C:\Users\gaa61\Desktop\Eke Egyetem\Buborek\Buborek\obj\Debug\Buborek.csprojAssemblyReference.cache
+C:\Users\gaa61\Desktop\Eke Egyetem\Buborek\Buborek\obj\Debug\Buborek.Form1.resources
+C:\Users\gaa61\Desktop\Eke Egyetem\Buborek\Buborek\obj\Debug\Buborek.Properties.Resources.resources
+C:\Users\gaa61\Desktop\Eke Egyetem\Buborek\Buborek\obj\Debug\Buborek.csproj.GenerateResource.cache
+C:\Users\gaa61\Desktop\Eke Egyetem\Buborek\Buborek\obj\Debug\Buborek.csproj.CoreCompileInputs.cache
+C:\Users\gaa61\Desktop\Eke Egyetem\Buborek\Buborek\bin\Debug\Buborek.exe.config
+C:\Users\gaa61\Desktop\Eke Egyetem\Buborek\Buborek\bin\Debug\Buborek.exe
+C:\Users\gaa61\Desktop\Eke Egyetem\Buborek\Buborek\bin\Debug\Buborek.pdb
+C:\Users\gaa61\Desktop\Eke Egyetem\Buborek\Buborek\obj\Debug\Buborek.exe
+C:\Users\gaa61\Desktop\Eke Egyetem\Buborek\Buborek\obj\Debug\Buborek.pdb
