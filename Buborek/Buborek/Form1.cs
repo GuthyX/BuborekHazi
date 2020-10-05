@@ -33,9 +33,11 @@ namespace Buborek
         {
             int size = rnd.Next(1, 100);
             buborek b = new buborek(e.Location.X,e.Location.Y,size, vaszon);
+            b.create();
             //Thread t1 = new Thread(() => b.create());
-            Thread t2 = new Thread(() => b.Move(e.Location.X, e.Location.Y, size, vaszon));
+            Thread t2 = new Thread(() => b.Move(e.Location.X, e.Location.Y, vaszon));
             //t1.Start();
+           
             t2.Start();
         }
 
@@ -46,10 +48,5 @@ namespace Buborek
         }
       
     }
-    class Buborek
-    {
-     
-
-
-    }
+  
 }

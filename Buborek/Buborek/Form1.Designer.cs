@@ -34,9 +34,9 @@
             // 
             // vaszon
             // 
-            this.vaszon.Location = new System.Drawing.Point(-2, 2);
+            this.vaszon.Location = new System.Drawing.Point(-2, 0);
             this.vaszon.Name = "vaszon";
-            this.vaszon.Size = new System.Drawing.Size(801, 445);
+            this.vaszon.Size = new System.Drawing.Size(801, 451);
             this.vaszon.TabIndex = 0;
             this.vaszon.TabStop = false;
             this.vaszon.Click += new System.EventHandler(this.vaszon_Click);
@@ -49,6 +49,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.vaszon);
+            this.DoubleBuffered = true;
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.vaszon)).EndInit();
